@@ -1,0 +1,12 @@
+.cart-style{
+    margin-left: 15px;
+    display:center;
+    margin: center;
+
+}
+.btn-style{
+    background-color:yellowgreen;
+    border-radius: 5px;
+    height: 30px;
+    border: 1px solid lightgrey;
+}

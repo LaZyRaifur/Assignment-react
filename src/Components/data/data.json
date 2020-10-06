@@ -1,0 +1,97 @@
+[{
+  "id": 1,
+  "course_name": "IBM Data Science Professional Certificate",
+  "description": "Kickstart your career in data science & ML. Master data science, learn Python & SQL, analyze & visualize data, build machine learning models.",
+  "price": 11.99,
+  "name": "Willi Adam",
+  "img": "https://robohash.org/liberoestest.png?size=50x50&set=set1"
+}, {
+  "id": 2,
+  "course_name": "Deep Learning Specialization",
+  "description":"Deep Learning Specialization. Master Deep Learning, and Break into AI",
+  "price": 61.30,
+  "name": "Gaylord Frensch",
+  "img": "https://robohash.org/liberoestest.png?size=50x50&set=set1"
+}, {
+  "id": 3,
+  "course_name": "Fundamentals of Engineering Exam Review",
+  "price": 34.21,
+  "name": "Dr. Philip Roberts",
+  "img": "https://robohash.org/fugitsuscipitsimilique.jpg?size=50x50&set=set1"
+}, {
+  "id": 4,
+  "course_name": "Introduction to Data Science Specialization",
+  "description":"Launch your career in data science. Gain foundational data science skills to prepare for a career or further advanced learning in data science.",
+  "price": 98.03,
+  "name": "Mick Brennen",
+  "img": "https://robohash.org/distinctioprovidentullam.bmp?size=50x50&set=set1"
+}, {
+  "id": 5,
+  "course_name": "Modern Robotics: Mechanics, Planning, and Control Specialization",
+  "description":"The most important concepts in modern robotics. A study of the kinematics, dynamics, motion planning, and control of mobile robots and robot arms.",
+  "price": 2.21,
+  "name": "Stephannie Algore",
+  "img": "https://robohash.org/utaperiamnostrum.png?size=50x50&set=set1"
+}, {
+  "id": 6,
+  "course_name": "IBM AI Engineering Professional Certificate",
+  "description":"Launch your career as an AI engineer. Learn how to provide business insights from big data using machine learning and deep learning techniques.",
+  "price": 78.00,
+  "name": "Haskel Feldman",
+  "img": "https://robohash.org/aperiamrerumlabore.png?size=50x50&set=set1"
+}, {
+  "id": 7,
+  "course_name": "Teach English Now! Second Language Reading, Writing, and Grammar",
+  "price": 52.21,
+  "name": "Rustin Twitchett",
+  "img": "https://robohash.org/laudantiumsapienteea.png?size=50x50&set=set1"
+}, {
+  "id": 8,
+  "course_name": "DeepLearning.AI TensorFlow Developer Professional Certificate",
+  "price": 24.21,
+  "name": "Maggie Hogsden",
+  "img": "https://robohash.org/quiquisomnis.jpg?size=50x50&set=set1"
+}, {
+  "id": 9,
+  "course_name": "TESOL Certificate, Part 1: Teach English Now! Specialization",
+  "price": 12.11,
+  "name": "Dallis Somers",
+  "img": "https://robohash.org/harumrerumconsectetur.bmp?size=50x50&set=set1"
+}, {
+  "id": 10,
+  "course_name": "Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)",
+  "price": 71.32,
+  "name": "Jesse Koenen",
+  "img": "https://robohash.org/etcupiditatequo.bmp?size=50x50&set=set1"
+}, {
+  "id": 11,
+  "course_name": "Algorithms, Part II",
+  "price": 11.00,
+  "name": "Alphard Cullerne",
+  "img": "https://robohash.org/odiosedeaque.jpg?size=50x50&set=set1"
+}, {
+  "id": 12,
+  "course_name": "The Lawyer of the Future: Legaltech and the Digital Transformation of Law",
+  "price": 18.21,
+  "name": "Carmela Wison",
+  "img": "https://robohash.org/impeditrepellatnisi.png?size=50x50&set=set1"
+}, {
+  "id": 13,
+  "course_name": "Programming Languages, Part B",
+  "price": 13.85,
+  "name": "Arliene Parradye",
+  "img": "https://robohash.org/exercitationemrationeamet.bmp?size=50x50&set=set1"
+}, {
+  "id": 14,
+  "course_name": "Understanding Medical Research: Your Facebook Friend is Wrong",
+  "price": 12.56,
+  "name": "Kelly McLellan",
+  "img": "https://robohash.org/ipsasaepeaccusamus.jpg?size=50x50&set=set1"
+}, {
+  "id": 15,
+  "course_name": "Google IT Automation with Python Professional Certificate",
+  "description": "Learn in-demand skills like Python, Git, and IT automation to advance your career.",
+  "price": 11.99,
+  "name": "Robin Swainsbury",
+  "img": "https://robohash.org/nisinobisvoluptatem.bmp?size=50x50&set=set1"
+}]
